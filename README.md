@@ -2,7 +2,7 @@
 
 I'm Kunisha, an undergraduate computer science student focused on software and web development. 
 
-I enjoy building projects that aim to solve real problems and/or serve as an outlet for my own interests, such as my Sonic game! 
+I enjoy building projects that aim to solve real problems and/or serve as an outlet for my own interests, such as my Sonic inspired game! 
 
 I've mostly used React, Python, Java, Node.js, and MySQL for my work.  
 
