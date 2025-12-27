@@ -1,4 +1,4 @@
-### **Hi there!** ˚⟡˖ ࣪
+### **Hey there!** ˚⟡˖ ࣪
 
 I'm Kunisha, an undergraduate computer science student focused on software and web development. 
 
