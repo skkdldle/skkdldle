@@ -1,5 +1,11 @@
 # About
-'AutonomousDelivery.py' enables a robot to simulate an autonomous delivery while avoiding obstacles. 
+'AutonomousDelivery.py' enables a robot to simulate an autonomous delivery while avoiding obstacles.  
+  
+1. Connect to the robot using Bluetooth via its identifier.  
+   - _Note: The script may already be set to a specific identifier. Change this name to connect to another robot._
+2. Fail-safe robot behaviors:
+   - If either button is pressed, the robot stops and turns on a solid red light.
+   - If either bumper is pressed, the robot stops and turns on a solid red light.
 
 ## Auxiliary Functions
 1. getMinProxApproachAngle()
