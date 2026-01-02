@@ -1,5 +1,11 @@
 # About
-'MazeSolver.py' implements different behaviors that enable a robot to explore and exit out of a maze. The robot does not require previous knowledge of the maze, and will identify maze walls until it reaches the cell corresponding to the exit. Note that these walls must be white or a similar color so that the detection sensors operate well.
+'MazeSolver.py' implements different behaviors that enable a robot to explore and exit out of a maze. The robot does not require previous knowledge of the maze, and will identify maze walls until it reaches the cell corresponding to the exit. Note that these walls must be white or a similar color so that the detection sensors operate well.  
+  
+1. Connect to the robot using Bluetooth via its identifier.  
+   - _Note: The script may already be set to a specific identifier. Change this name to connect to another robot._
+2. Fail-safe robot behaviors:
+   - If either button is pressed, the robot stops and turns on a solid red light.
+   - If either bumper is pressed, the robot stops and turns on a solid red light.
 
 ## Auxiliary Functions
 1. createMazeDict()
