@@ -3,7 +3,7 @@ This is a system that allows users to input a predefined code sequence via touch
 
 1. Connect to the robot using Bluetooth via its identifier.  
    - _Note: The script may already be set to a specific identifier. Change this name to connect to another robot._
-3. Event-driven mechanisms:
+2. Event-driven mechanisms:
    - (●) button press: appends "1" to the passcode, and plays the note C5.
    - (●●) touch press: appends "2" to the user passcode, and plays the note D5.
    - Left bumper press: appends "3" to the user passcode, and plays the note E5.
